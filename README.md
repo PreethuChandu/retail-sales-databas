@@ -25,4 +25,4 @@ A SQL-based e-commerce backend system designed for managing customers, orders, p
 3. Explore queries.sql to get insights.
 
 ## 📌 Author
-Preetham Chandupatla 💙
+Preetham Chandupatla 
